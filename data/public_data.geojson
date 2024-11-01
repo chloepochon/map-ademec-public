@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333333,
+          48.866667
+        ]
+      },
+      "properties": {
+        "stage_location": "SIAF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.066667,
+          50.6333332
+        ]
+      },
+      "properties": {
+        "stage_location": "AD59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          50.0
+        ]
+      },
+      "properties": {
+        "stage_location": "Mus\u00e9e de Lille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.452041123993496,
+          41.903858955962505
+        ]
+      },
+      "properties": {
+        "stage_location": "Toto Instit"
+      }
+    }
+  ]
+}
