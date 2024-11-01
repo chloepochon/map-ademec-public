@@ -16,7 +16,7 @@
   }).addTo(map);
 
   // Charger le GeoJSON public
-  fetch('https://raw.githubusercontent.com/votre-utilisateur/public-repo/main/public_data.geojson')
+  fetch('https://github.com/chloepochon/map-ademec-public/blob/main/data/public_data.geojson')
     .then(response => response.json())
     .then(data => {
       L.geoJSON(data, {
