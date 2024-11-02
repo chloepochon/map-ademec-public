@@ -1,57 +1,50 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.333333,
-          48.866667
-        ]
-      },
-      "properties": {
-        "stage_location": "SIAF"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.066667,
-          50.6333332
-        ]
-      },
-      "properties": {
-        "stage_location": "AD59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.0,
-          50.0
-        ]
-      },
-      "properties": {
-        "stage_location": "Mus\u00e9e de Lille"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.452041123993496,
-          41.903858955962505
-        ]
-      },
-      "properties": {
-        "stage_location": "Toto Instit"
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1892412933494527,
+                    55.94462389220463
+                ]
+            },
+            "properties": {
+                "annee": 2008,
+                "lieu_stage1": "Université d'Edimburg",
+                "lieu_stage2": "Laboratory for Digital Philology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.37580807619264,
+                    48.83373398357215
+                ]
+            },
+            "properties": {
+                "annee": 2008,
+                "lieu_stage1": "Bibliothèque nationale de France",
+                "lieu_stage2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.333558869951139,
+                    48.86328396483691
+                ]
+            },
+            "properties": {
+                "annee": 2008,
+                "lieu_stage1": "Musée des Arts Décoratifs",
+                "lieu_stage2": null
+            }
+        }
+    ]
 }
