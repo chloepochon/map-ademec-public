@@ -28,7 +28,7 @@
             "properties": {
                 "annee": 2008,
                 "lieu_stage1": "Bibliothèque nationale de France",
-                "lieu_stage2": NaN
+                "lieu_stage2": null
             }
         },
         {
@@ -43,7 +43,7 @@
             "properties": {
                 "annee": 2008,
                 "lieu_stage1": "Musée des Arts Décoratifs",
-                "lieu_stage2": NaN
+                "lieu_stage2": null
             }
         }
     ]
